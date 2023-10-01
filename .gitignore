@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__/
+nlp_env/
+*.pyc
+models/
+.DS_Store
+*.zip
